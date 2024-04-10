@@ -1,0 +1,14 @@
+app/config/wak.conf
+node_modules
+node_modules/*
+CHANGELOG.md
+corepack
+corepack.cmd
+install_tools.bat
+node.exe
+nodevars.bat
+npm
+npm.cmd
+npx
+npx.cmd
+README.md
